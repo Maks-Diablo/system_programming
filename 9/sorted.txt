@@ -1,5 +1,0 @@
-cat
-dog
-fox
-pig
-wolf

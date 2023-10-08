@@ -1,4 +1,0 @@
-Petrov: 20: 150:male
-Sidorov: 22: 50:male
-Nutrina: 21: 70:female
-Atomova: 23: 50:female

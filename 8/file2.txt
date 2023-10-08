@@ -1,4 +1,0 @@
-sheep
-dog
-fox
-pig
